@@ -64,4 +64,4 @@ JavaScript/Front-end on the [RS Schools](https://rs.school/js/) (in progress)
 
 A few words to read before you look at my photo!
 
-![my photo](https://i.ibb.co/F4g02Zf/i-m-a-cardiosurgeon.jpg")
+![my photo](https://i.ibb.co/F4g02Zf/i-m-a-cardiosurgeon.jpg)

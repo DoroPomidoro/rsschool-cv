@@ -1,2 +1,1 @@
-[Click link] to my CV!
-(https://DoroPomidoro.github.io/rsschool-cv/cv)
+[Click link](https://DoroPomidoro.github.io/rsschool-cv/cv) to my CV!
